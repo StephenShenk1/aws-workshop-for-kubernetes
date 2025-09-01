@@ -1,4 +1,4 @@
-FROM node:boron
+FROM node:24.7.0
 
 # Create app directory
 WORKDIR /usr/src/app
